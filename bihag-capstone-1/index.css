@@ -1,0 +1,110 @@
+/*CSS Reset Rule*/
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Oswald', sans-serif;
+}
+
+.navi {
+	font-size: 30px;
+}
+
+.navicon {
+	width: 50px;
+}
+
+.navbar-1 {
+	font-size: 30px;
+}
+
+.bg-image-landing {
+	background-image: url("./image/ikidhimase-2QJS83KOL64-unsplash.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	min-height: 95vh;
+}
+
+.full-stack-web-developer {
+	text-align: center;
+	color: #121217;
+	padding-top: 10px;
+}
+
+.p-1 {
+	text-align: center;
+	padding-top: 20px;
+	font-size: 30px;
+	font-family: 'Syne', sans-serif;
+	margin-left: 100px;
+	margin-right: 100px;
+	background-color: grey;
+
+}
+
+.bg-image-project {
+	background-image: url("./image/markus-laanisto-rNpjf2V-LDM-unsplash.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	min-height: 110vh;
+}
+
+.bg-image-tools {
+	background-color: grey;
+	background-position: center;
+	background-repeat: no-repeat;
+	min-height: 50vh;
+}
+
+.tools-image {
+	background-position: center;
+	background-repeat: no-repeat;
+	min-height: 20vh;
+}
+
+.bg-image-contact {
+	background-image: url("./image/jack-b-o1radglopDA-unsplash.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	min-height: 40px;	
+}
+
+footer {
+	text-align: center;
+	font-size: large;
+	padding: 1.5rem;
+	padding: 1rem;
+	color: white;
+	background-color: #363636;
+}
+
+style
+/* unvisited link */
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: #e98968;
+}
+
+/* mouse over link */
+a:hover {
+  color: #10ebad;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+
+.back-to-top {
+	padding-top: 100px;
+}
