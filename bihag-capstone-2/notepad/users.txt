@@ -1,0 +1,15 @@
+{
+"firstName": "Rudolf",
+"lastName": "Bihag",
+ "email": "rbihag@icloud.com",
+"mobileNo": "12345678911",
+"password": "john1234",
+}
+
+{
+"firstName": "Rynhardt",
+"lastName": "Bihag",
+ "email": "rynnbihag@icloud.com",
+"mobileNo": "12345678911",
+"password": "john1234"
+}
